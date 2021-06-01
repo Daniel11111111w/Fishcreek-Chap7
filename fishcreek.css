@@ -92,7 +92,7 @@ footer {
   padding: 1em;
   text-align: center;
 }
-@medai (min-width: 600px) {
+@media (min-width: 600px) {
   header { background-image: url(bigifish.gif;) }
   h1 { font-size: 3em; }
   nav ul { flex-direction: row;
